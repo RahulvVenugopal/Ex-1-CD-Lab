@@ -1,4 +1,6 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
+## Name:Rahul V
+## Register number: 212223040163
 # AIM :
 To Write a C program to implement a symbol table.
 # ALGORITHM
